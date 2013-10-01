@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickDemo</string>
+    <string name="image_background">Background Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="layout_frame">Frame-Layout</string>
+    <string name="message_types">Message-Types</string>
+    <string name="prefs_header_app_info">App Info</string>
+    <string name="prefs_header_app_info_summary"></string>
+    <string name="prefs_app_info_version">Version</string>
+    <string name="prefs_app_info_version_summary">Alfa</string>
+    <string name="prefs_app_info_hsr">Official HSR App</string>
+    <string name="prefs_app_info_hsr_summary">For assistance please contact the HSR IT-ServiceDesk</string>
+    <string name="prefs_app_info_author">Author</string>
+    <string name="prefs_app_info_author_summary">Thomas Charriere</string>
+    <string name="prefs_app_info_www">Website</string>
+    <string name="prefs_app_info_www_summary">http://www.example.com/</string>
+    <string name="prefs_header_developer_info">Entwickler Info</string>
+    <string name="title_activity_message_type">MessageType</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
